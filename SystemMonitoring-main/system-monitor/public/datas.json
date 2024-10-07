@@ -1,0 +1,39 @@
+{
+    "system1_info": {
+      "hostname": "pera-inc7",
+      "ip": "192.168.11.217",
+      "cpu_model": "11th Gen Intel(R) Core(TM) i7-11850H @ 2.50GHz",
+      "total_memory": "15.35 GB",
+      "used_memory": "7.62 GB",
+      "uptime": "5h33m59s",
+      "wifi": "wlp0s20f3  IEEE 802.11  ESSID:\"Zoho-Guest\"",
+      "battery": "state: charging, time to full: 33.4 minutes, percentage: 58%",
+      "ssh_info": "No active SSH connections",
+      "timestamp": "2024-10-03T15:29:27+05:30"
+    },
+    "system2_info": {
+      "hostname": "another-system",
+      "ip": "192.168.1.101",
+      "cpu_model": "Intel Core i5",
+      "total_memory": "8 GB",
+      "used_memory": "4 GB",
+      "uptime": "2h15m30s",
+      "wifi": "wlan0  IEEE 802.11  ESSID:\"Company-Network\"",
+      "battery": "state: discharging, time to empty: 1.5 hours, percentage: 75%",
+      "ssh_info": "Active SSH connections detected. Connected IPs: 192.168.1.110",
+      "timestamp": "2024-10-03T10:20:15+05:30"
+    },
+    "system3_info": {
+      "hostname": "another-system",
+      "ip": "192.168.1.101",
+      "cpu_model": "Intel Core i5",
+      "total_memory": "8 GB",
+      "used_memory": "4 GB",
+      "uptime": "2h15m30s",
+      "wifi": "wlan0  IEEE 802.11  ESSID:\"Company-Network\"",
+      "battery": "state: discharging, time to empty: 1.5 hours, percentage: 75%",
+      "ssh_info": "Active SSH connections detected. Connected IPs: 192.168.1.110",
+      "timestamp": "2024-10-03T10:20:15+05:30"
+    }
+  }
+  
